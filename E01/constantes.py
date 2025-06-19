@@ -1,0 +1,18 @@
+RESOLUCION = (800,600)
+
+VIOLETA = (128, 0, 128)
+
+ALTO_PERSONAJE = 100
+
+ANCHO_PERSONAJE = 100
+
+MOV_ARRIBA = -5
+MOV_ABAJO = 5
+MOV_DERECHA = 5
+MOV_IZQUIERDA = -5
+
+BG = (255,255,255)
+
+FPS = 60
+
+xd = "C:/Users/ElPapu/Desktop/momazos diego/pastel_de_papa.jpg"
